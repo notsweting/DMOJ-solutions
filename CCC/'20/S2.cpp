@@ -1,3 +1,7 @@
+// This is not the intended time complexity of the problem:
+// You are meant to use a 1D array to store factors and cells, but
+// 2D BFS worked because I used cpp lmfao
+
 #include <bits/stdc++.h>
 using namespace std;
 

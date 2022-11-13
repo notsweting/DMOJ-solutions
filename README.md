@@ -1,6 +1,6 @@
 # DMOJ-solutions
-Original solutions for problems on dmoj.ca - some might be subpar solutions but all are AC 
+Original solutions for problems on dmoj.ca
+
+Some of these solutions are subpar - all solutions AC on DMOJ but some of them are subpar/not the intended time complexity. Typically these subpar solutions will TLE in Java and other slower languages but C++ ends up cheesing these time limits.
 
 Problems are named by their problem link on DMOJ, apart from CCC solutions, which can be found within the appropriate folders.
-
-Folders are mostly placed in their respective categories on DMOJ, but try searching the problem code in the repo in case it's been placed in assorted.

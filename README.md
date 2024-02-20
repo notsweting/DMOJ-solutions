@@ -7,4 +7,4 @@ Problems are named by their problem link on DMOJ. Certain CCC solutions are not 
 
 Catalogue of DMOJ problems with finer tags: https://docs.google.com/spreadsheets/d/1EFGf43P-t-GN9UjjExuoOEy-Hwfm9YoAAw9P7zI3kig/edit?usp=sharing
 
-See a problem that I've solved and want the solution posted? Get in touch with me on Discord (@notsweting)
+See a problem that I've solved and want the solution posted? Create an issue, or get in touch with me on Discord (@notsweting)
